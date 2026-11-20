@@ -1,0 +1,10 @@
+{
+  "name": "Lovebird",
+  "short_name": "Lovebird",
+  "description": "Shared calendar, chat, calls and walkie-talkie for couples",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff7f8",
+  "theme_color": "#e2557a",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
